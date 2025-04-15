@@ -1,0 +1,18 @@
+(FINISH) Time: addFirst 1106119 n/s
+(FINISH) Time: Wiazana addFirst: 110 n/s
+(FINISH) Time: Dynamiczna addLast: 32 n/s
+(FINISH) Time: Wiazana addLast: 74 n/s
+(FINISH) Time: Dynamiczna addAtIndex: 683168 n/s
+(FINISH) Time: addAtIndex: 1252561 n/s
+(FINISH) Time: Dynamiczna deleteFirst: 1359652 n/s
+(FINISH) Time: Wiazana deleteFirst: 101 n/s
+(FINISH) Time: Dynamiczna deleteLast: 38 n/s
+(FINISH) Time: Wiazana deleteLast: 6268662 n/s
+(FINISH) Time: Dynamiczna deleteAtIndex: 691169 n/s
+(FINISH) Time: Wiazana deleteAtIndex: 1270313 n/s
+(FINISH) Time: Dynamiczna search (90): 140 n/s
+(FINISH) Time: Wiazana search (90): 197 n/s
+
+
+
+Legend: n/s => nanoseconds
