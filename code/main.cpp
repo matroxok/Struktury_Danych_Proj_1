@@ -9,7 +9,7 @@ using namespace std::chrono;
 
 int main()
 {
-    ofstream outputFile("test_score.txt");
+    ofstream outputFile("score.txt");
     if (!outputFile.is_open())
     {
         cerr << "(!) Error open file." << endl;
